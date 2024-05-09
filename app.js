@@ -1,4 +1,4 @@
-'use strict';
+
 
 // fetch = 取り出す
 async function fetchUserData() { 
